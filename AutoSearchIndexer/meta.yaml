@@ -1,0 +1,6 @@
+name: Auto Search Indexer
+version: '1.0'
+description: 'Automatically updates all collections & default search index whenever a new entry is added, or one deleted'
+url: 'https://github.com/madsem/statamic-autosearchindexer/'
+developer: madsem
+developer_url: 'https://github.com/madsem/'
